@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing higher education unemployment rates 
 
 ## 📌 Project Overview
 
-This dashboard compares graduate unemployment rates between **Türkiye**, the **European Union**, and the **World** from **2004 to 2024**.
+This dashboard compares graduate unemployment rates between **Turkiye**, the **European Union**, and the **World** from **2004 to 2024**.
 
 The project aims to identify trends, compare regional performance, and highlight countries with the highest and lowest unemployment rates among individuals with higher education.
 
@@ -13,10 +13,10 @@ The project aims to identify trends, compare regional performance, and highlight
 ## 🚀 Dashboard Features
 
 - KPI Cards
-  - Türkiye Unemployment Rate
+  - Turkiye Unemployment Rate
   - European Union Average
   - World Average
-  - Türkiye–EU Difference
+  - Turkiye–EU Difference
 
 - Trend Analysis (2004–2024)
 
@@ -26,7 +26,7 @@ The project aims to identify trends, compare regional performance, and highlight
 
 - Top 10 Lowest Graduate Unemployment Rates
 
-- Gauge Chart (Türkiye vs EU Average)
+- Gauge Chart (Turkiye vs EU Average)
 
 - Interactive Filters
   - Year
@@ -62,7 +62,7 @@ Indicator:
 
 ## 📈 Key Insights
 
-- Türkiye's graduate unemployment rate remains above the European Union average.
+- Turkiye's graduate unemployment rate remains above the European Union average.
 - Users can explore unemployment trends between 2004 and 2024.
 - The dashboard highlights countries with the highest and lowest graduate unemployment rates.
 - Interactive filters allow dynamic exploration of the data.
